@@ -25,7 +25,7 @@ I believe strongly in fostering collaborative environments, and enjoy learning f
 ## Projects
 **Gauntlet DnD Toolset** [Demo](https://gauntlet.developermouse.com/) | [Repo](https://github.com/jasonwong26/gauntlet-bp-tracker)
 
-A digital toolset for running a version of the DnD tabletop game with special rules.  React Typescript frontend and Serverless API hosted on AWS.
+A digital toolset for running a version of the DnD tabletop game with special rules.  React Typescript frontend and Serverless API hosted on AWS for the backend.
 
 **Data Structures and Algorithms** [Repo](https://github.com/jasonwong26/AlgorithmPractice)
 
