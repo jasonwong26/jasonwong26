@@ -23,10 +23,11 @@ Ask me how serverless architectures and AWS cloud services can accelerate produc
 I believe strongly in fostering collaborative environments, and enjoy learning from and mentoring other developers.
 
 ## Projects
-Gauntlet DnD Toolset [Demo](https://gauntlet.developermouse.com/) | [Repo](https://github.com/jasonwong26/gauntlet-bp-tracker)
+**Gauntlet DnD Toolset** [Demo](https://gauntlet.developermouse.com/) | [Repo](https://github.com/jasonwong26/gauntlet-bp-tracker)
+
 A digital toolset for running a version of the DnD tabletop game with special rules.  React Typescript frontend and Serverless API hosted on AWS.
 
-Data Structures and Algorithms [Repo](https://github.com/jasonwong26/AlgorithmPractice)
+**Data Structures and Algorithms** [Repo](https://github.com/jasonwong26/AlgorithmPractice)
 
 ## Get in Touch
 
