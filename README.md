@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi there!
-I'm Jason, a hands-on Technical Lead with JavaScript, Typescript and .NET experience.
+I'm Jason, a Full Stack Software Engineer at Snap Inc.
 Excellent at transforming customer needs into technical requirements and delivering products and services they love.
 
 A passionate problem solver, I love diving deep into new systems and frameworks with an eye for how they can be used to improve systems and increase development velocity.
